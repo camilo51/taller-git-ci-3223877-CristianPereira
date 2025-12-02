@@ -1,4 +1,5 @@
-# TALLER DE CI 
+# TALLER DE CI
+
 ## Cristian Camilo Pereira Florez
 
 # 📦 Guía de Instalación
@@ -24,6 +25,7 @@ git clone https://github.com/camilo51/taller-git-ci-3223877-CristianPereira.git 
 
 cd proyecto
 ```
+
 ---
 
 ## 📦 Instalar dependencias
@@ -31,10 +33,13 @@ cd proyecto
 ```bash
 npm install
 ```
+
 ---
+
 ## 🧪 Ejecutar pruebas
 
 ```bash
 node --test
 ```
+
 ---
