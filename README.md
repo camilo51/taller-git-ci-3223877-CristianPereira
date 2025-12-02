@@ -1,4 +1,4 @@
-# Taller de CI 
+# TALLER DE CI 
 ## Cristian Camilo Pereira Florez
 
 # 📦 Guía de Instalación
